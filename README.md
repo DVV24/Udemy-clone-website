@@ -35,5 +35,7 @@ This project is a **front-end clone** of the Udemy homepage, developed using **H
 
 ---
 Code and Live Demo
+
 GitHub Repository: https://github.com/DVV24/Udemy-clone-website
+
 Live Demo:https://dvv24.github.io/Udemy-clone-website/
